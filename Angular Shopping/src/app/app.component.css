@@ -1,0 +1,15 @@
+html,body{
+    height: 100%;
+    position: relative;
+}
+router-outlet{
+
+    min-height: 100%;
+    
+    display: block;
+    
+    position: relative;
+    
+    padding-bottom: 56px;
+    
+}
